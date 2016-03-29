@@ -1,0 +1,82 @@
+Logiciels supprimés :
+
+- Abiword (xubuntu)
+- Aisleriot (ubuntu)
+- Banshee (mint)
+- Blueman
+- Gnome-mahjongg (ubuntu)
+- Gnome-mines (ubuntu)
+- Gnome-sudoku (ubuntu)
+- Gnumeric (xubuntu)
+- Hexchat (mint)
+- Pidgin
+- Transmission
+
+Logiciels installés :
+
+- AlgoBox
+- Audacity
+- Avogadro
+- Blender
+- Carmetal
+- Celestia
+- Chromium
+- Cups-pdf
+- Diodon
+- Ffmpeg2Theora
+- Flac
+- Flash (pour firefox)
+- Freeplane
+- Geany
+- Geogebra
+- Ghex
+- Gimp  
+- Gnote
+- GooBox
+- Google Earth
+- GParted
+- Gstreamer0.10-plugins-ugly
+- Gthumb
+- Htop
+- Hugin
+- Idle-python
+- Imagemagick
+- Imagination
+- Inkscape
+- Lame
+- Libdvdread + Libdvdcss (lecture dvd)
+- LibreOffice (backporté)
+- MPlayer
+- MyPaint
+- Nautilus-image-converter (uniquement pour Unity)
+- Nautilus-script-audio-convert (uniquement pour Unity)
+- OggVideoTools
+- OgmRip
+- OpenShot
+- Oracle Java 8
+- P7zip-full
+- Pepper Flash (flash pour chromium)
+- Pinta
+- Plank (uniquement pour Xfce)
+- Pyrenamer
+- Rar
+- Scilab
+- Scratch
+- Scribus
+- Shutter
+- Stellarium
+- Ttf-mscorefonts (police d'écriture Microsoft)
+- Ubuntu-restricted-extras/addons (uniquement pour Unity)
+- Unity-tweak-tool (uniquement pour Unity)
+- UnRar
+- VLC
+- Vim
+- Vorbis-Tools
+- X264
+- Xfce4-goodies/xfwm4-themes (uniquement pour Xfce)
+- Xournal
+- Xubuntu-restricted-extras/addons (uniquement pour Xfce)
+
+
+
+apt-get -y install imagination openshot audacity vlc x264 ffmpeg2theora flac vorbis-tools lame oggvideotools mplayer ogmrip gstreamer0.10-plugins-ugly goobox

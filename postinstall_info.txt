@@ -76,7 +76,3 @@ Logiciels installés :
 - Xfce4-goodies/xfwm4-themes (uniquement pour Xfce)
 - Xournal
 - Xubuntu-restricted-extras/addons (uniquement pour Xfce)
-
-
-
-apt-get -y install imagination openshot audacity vlc x264 ffmpeg2theora flac vorbis-tools lame oggvideotools mplayer ogmrip gstreamer0.10-plugins-ugly goobox

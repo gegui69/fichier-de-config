@@ -1,1 +1,4 @@
 # PPA pour Plank (non présent dans les dépots de la 14.04)
+
+deb http://ppa.launchpad.net/docky-core/stable/ubuntu trusty main
+deb-src http://ppa.launchpad.net/docky-core/stable/ubuntu trusty main

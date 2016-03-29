@@ -1,0 +1,4 @@
+# PPA generic LibreOffice
+
+deb http://ppa.launchpad.net/libreoffice/ppa/ubuntu trusty main
+#deb-src http://ppa.launchpad.net/libreoffice/ppa/ubuntu trusty main

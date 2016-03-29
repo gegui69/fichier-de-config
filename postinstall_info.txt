@@ -65,6 +65,7 @@ Logiciels installés :
 - Scribus
 - Shutter
 - Stellarium
+- Sweethome3d
 - Ttf-mscorefonts (police d'écriture Microsoft)
 - Ubuntu-restricted-extras/addons (uniquement pour Unity)
 - Unity-tweak-tool (uniquement pour Unity)

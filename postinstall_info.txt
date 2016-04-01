@@ -4,14 +4,18 @@ Logiciels supprimés :
 - Aisleriot (ubuntu)
 - Banshee (mint)
 - Blueman
+- Cheese (ubu mate)
 - Gnome-mahjongg (ubuntu)
 - Gnome-mines (ubuntu)
 - Gnome-sudoku (ubuntu)
 - Gnumeric (xubuntu)
-- Hexchat (mint)
+- Hexchat (mint/ubu mate)
+- Mintwelcome (mint)
 - Pidgin
+- Rhythmbox (ubu mate)
 - Thunderbird
 - Transmission
+- Ubuntu-mate-welcome (ubu mate)
 
 Logiciels installés :
 

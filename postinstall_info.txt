@@ -1,18 +1,21 @@
 Logiciels supprimés :
 
-- Abiword (xubuntu)
+- Abiword (xubuntu/lubuntu)
 - Aisleriot (ubuntu)
+- Audacious (lubuntu)
 - Banshee (mint)
 - Blueman
 - Cheese (ubu mate)
 - Gnome-mahjongg (ubuntu)
 - Gnome-mines (ubuntu)
 - Gnome-sudoku (ubuntu)
-- Gnumeric (xubuntu)
+- Gnumeric (xubuntu/lubuntu)
+- Guvcview (lubuntu)
 - Hexchat (mint/ubu mate)
 - Mintwelcome (mint)
 - Pidgin
 - Rhythmbox (ubu mate)
+- Sylpheed (lubuntu)
 - Thunderbird
 - Transmission
 - Ubuntu-mate-welcome (ubu mate)
@@ -51,6 +54,8 @@ Logiciels installés :
 - Lame
 - Libdvdread + Libdvdcss (lecture dvd)
 - LibreOffice (backporté sur Trusty)
+- Lubuntu-restricted-extras/addons (uniquement pour Lubuntu)
+- Mate-desktop-environnements-extras (uniquement pour Ubu Mate)
 - MPlayer
 - MyPaint
 - Nautilus-image-converter (uniquement pour Unity)

@@ -54,7 +54,7 @@ Logiciels installés :
 - Lame
 - Libdvdread + Libdvdcss (lecture dvd)
 - LibreOffice (backporté sur Trusty)
-- Lubuntu-restricted-extras/addons (uniquement pour Lubuntu)
+- Lubuntu-restricted-extras/addons (uniquement pour Lxde)
 - Mate-desktop-environnements-extras (uniquement pour Ubu Mate)
 - MPlayer
 - MyPaint

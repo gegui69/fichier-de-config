@@ -20,7 +20,7 @@ Logiciels installés :
 - Avogadro
 - Blender
 - Carmetal
-- Celestia
+- Celestia (pas encore sur Xenial)
 - Chromium
 - Cups-pdf
 - Diodon
@@ -34,9 +34,9 @@ Logiciels installés :
 - Gimp  
 - Gnote
 - GooBox
-- Google Earth
+- Google Earth (uniquement pour Trusty)
 - GParted
-- Gstreamer0.10-plugins-ugly
+- Gstreamer0.10-plugins-ugly (uniquement pour Trusty)
 - Gthumb
 - Htop
 - Hugin

@@ -50,7 +50,7 @@ Logiciels installés :
 - Inkscape
 - Lame
 - Libdvdread + Libdvdcss (lecture dvd)
-- LibreOffice (backporté)
+- LibreOffice (backporté sur Trusty)
 - MPlayer
 - MyPaint
 - Nautilus-image-converter (uniquement pour Unity)

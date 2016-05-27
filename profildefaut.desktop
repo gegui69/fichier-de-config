@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=profildefaut
+Exec=/bin/bash -c "cp -rf /etc/skel/Bureau ~ ; cp -rf /etc/skel/Desktop ~ ; cp -rf /etc/skel/.config/plank ~/.config/ ; cp -rf /etc/skel/.config/xfce4/* ~/.config/xfce4/"
+Type=Application

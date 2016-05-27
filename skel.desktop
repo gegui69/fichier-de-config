@@ -1,0 +1,6 @@
+#a placer dans /etc/xdg/autostart
+
+[Desktop Entry]
+Name=Create Skel
+Exec=/bin/bash -c "cp -rf /etc/skel* ~ && cp -rf /etc/skel/.[!.]* ~"
+Type=Application

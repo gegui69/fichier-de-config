@@ -2,5 +2,5 @@
 
 [Desktop Entry]
 Name=Create Skel
-Exec=/bin/bash -c "cp -rf /etc/skel* ~ && cp -rf /etc/skel/.[!.]* ~"
+Exec=/bin/bash -c "cp -rf /etc/skel/* ~ && cp -rf /etc/skel/.[!.]* ~"
 Type=Application

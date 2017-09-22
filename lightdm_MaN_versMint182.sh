@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# Script pour ceux qui veulent faire la mise à niveau de Mint depuis une version inférieur à la 18.2 vers la 18.2.
+# Script pour ceux qui veulent faire la mise à niveau de Mint depuis une version inférieur à la 18.2 vers la 18.2 tout
+#en conservant l'intégration et la saisie manuelle des identifiants.
 
 ########################################################################
 #parametrage du script de demontage du netlogon pour lightdm 
